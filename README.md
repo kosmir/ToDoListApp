@@ -1,5 +1,3 @@
-Certainly! Below is a simple Markdown file that describes your To-Do List Console App project:
-
 ```markdown
 # To-Do List Console App Project
 
