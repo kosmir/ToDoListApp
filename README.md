@@ -64,5 +64,3 @@ To-do lists are stored in text files named according to the date (e.g., `List_03
 
 Feel free to explore and enhance the functionality of this simple to-do list console application!
 ```
-
-Copy and paste this content into a Markdown file (e.g., `README.md`) in your GitHub repository to provide a clear overview of your project.
